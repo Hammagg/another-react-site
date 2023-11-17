@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Vehicles:",
+    "imageSrc": "assets/skills/vehicles.png"
+  },
+  {
+    "title": "Crew:",
+    "imageSrc": "assets/skills/CREW.png"
+  },
+  {
+    "title": "Equipment:",
+    "imageSrc": "assets/skills/equips.png"
+  },
+  {
+    "title": "Misc.:",
+    "imageSrc": "assets/skills/andmore.png"
+  }
+]

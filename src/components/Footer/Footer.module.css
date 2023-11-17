@@ -1,0 +1,51 @@
+@import "../../vars.css";
+
+.bigfont {
+  font-size: 40px;
+}
+
+#footermain {
+  align-items: center;
+  margin: 0 10%;
+}
+
+.footercontainer {
+  height: 300px;
+  padding: 20px 50px;
+  display: block;
+  flex-direction: row;
+  color: var(--color-text);
+  background-color: rgb(57, 80, 57);
+
+}
+
+
+.title {
+  font-size: 30px;
+  font-weight: 600;
+  text-decoration: none;
+  
+}
+
+.tankicon {
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  
+}
+
+
+#footerbox {
+  list-style: none;
+  padding: 50px 10px;
+  padding-top: 25px;
+  
+}
+
+#footerbox a {
+  list-style: none;
+  text-decoration: none;
+  color: orange;
+
+}
+
