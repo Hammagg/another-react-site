@@ -7,7 +7,7 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h3 className={styles.ranktext1}>Tier 1</h3>
-        <h1 className={styles.title}>Utility Carrier</h1>
+        <h1 className={styles.title}>Uutility Carrier</h1>
         <p className={styles.description}>
           I deliver troops, ammunition, and whatever else needed for the
           battlefield. I am equipped with 2 auto-cannons. Able to withstand
